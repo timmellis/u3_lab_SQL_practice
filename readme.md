@@ -111,7 +111,7 @@ DELETE FROM authors WHERE name = 'Adam B.';
 
 ## Exercises
 
-There are two exercises:
+There is one exercise:
 
 - [Basic Queries](basic_queries.sql) - SELECT, INSERT, UPDATE, DELETE
 
